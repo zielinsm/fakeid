@@ -1,0 +1,12 @@
+.display-table {
+  max-width: 275px !important;	
+}
+
+.table__title {
+  font-weight: bold;	
+}
+
+.card__header {
+  margin-top: 18px !important;
+  margin-bottom: -10px !important;
+}

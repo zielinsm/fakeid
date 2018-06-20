@@ -1,0 +1,17 @@
+.heading {
+  height: 250px;
+  border-radius: unset !important;
+}
+
+.heading__wrapper {
+  height: 100%;	
+}
+
+.heading__slogan {
+  font-size: 2em !important;	
+}
+
+.heading__description {
+  font-size: 1.5em !important;	
+  margin-top: -0.5em !important;
+}
